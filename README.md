@@ -1,2 +1,7 @@
 # leobelle
-LeoBelle Store products and services
+
+LeoBelle Store
+
+Products
+
+Services
